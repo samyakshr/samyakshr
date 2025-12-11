@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="profile.png" alt="Profile Picture" width="200" style="border-radius: 50%;" />
+  <img src="profile.png" alt="Profile Picture" width="280" style="border-radius: 50%;" />
 </div>
 
 <br />
@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm an aspriing data scientist and versatile software developer who loves building data solutions, creating practical automations, and software tools. I am driven by curiosity and continual learning, always exploring new tools, methods, and ideas to grow.
+I'm an aspiring Data Scientist and versatile Software Developer who loves building data solutions, creating practical automations, and software tools. I am driven by curiosity and continual learning, always exploring new tools, methods, and ideas to grow.
 
 <!--
 **samyakshr/samyakshr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
